@@ -5,4 +5,4 @@
 
 ## Project: node-concepts
 ### Description
-Using Routes, Middleware and other concepts
+Using Routes, HTTP methods, Middleware and other concepts.
